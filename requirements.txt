@@ -1,0 +1,12 @@
+# Install torch==2.3.1 separately: choose CPU or CUDA build as documented in README.
+numpy==1.26.4
+monai==1.4.0
+jupyter==1.1.1
+ipykernel==6.29.5
+nibabel==5.3.2
+pandas==2.2.3
+scipy==1.15.1
+matplotlib==3.10.0
+SimpleITK==2.4.1
+tqdm==4.67.1
+huggingface_hub==0.26.5
